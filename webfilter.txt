@@ -1,0 +1,214 @@
+# FortiGate External URL List - Streaming Media & Online TV/Movies Blocker
+# Created: 2026-08-01
+# Description: Block all streaming and online TV/movie websites except YouTube
+# Usage: Import this file into FortiGate Security Profiles > Web Filter > URL Lists
+# Format: One domain per line, supports wildcards (*.domain.com)
+
+# ========================================
+# Thai Streaming & Online TV
+# ========================================
+# 320HD - Thai Series Streaming
+320hd.com
+*.320hd.com
+
+# Thai Drama & Series Websites
+dramaonline.asia
+dramakool.co
+anikorea.co
+kissasian.sh
+kissasiantv.sh
+asianwiki.com
+mydramalist.com
+dramafever.com
+thaidrama.tv
+thaidramahd.com
+seriesthailand.com
+thaiseriesth.com
+dramahd.tv
+hdseriesonline.com
+
+# ========================================
+# Major Streaming Platforms
+# ========================================
+# Netflix
+netflix.com
+*.netflix.com
+nflxext.com
+nflximg.net
+nflxvideo.net
+fast.com
+
+# Disney+
+disneyplus.com
+*.disneyplus.com
+disneyplus.disney.com
+go.disney.com
+hotstar.com
+*.hotstar.com
+hotstarcricket.com
+
+# Amazon Prime Video
+primevideo.com
+*.primevideo.com
+prime-video.com
+amazon.com/primevideo
+amazonvideo.com
+
+# HBO Max / Max
+hbomax.com
+*.hbomax.com
+max.com
+*.max.com
+hbo.com
+*.hbo.com
+
+# ========================================
+# Asian Streaming Platforms
+# ========================================
+# Chinese Streaming
+iqiyi.com
+*.iqiyi.com
+youku.com
+*.youku.com
+tudou.com
+*.tudou.com
+bilibili.com
+*.bilibili.com
+bilibilicomics.com
+
+# Korean Streaming
+wavve.com
+*.wavve.com
+tving.com
+*.tving.com
+watcha.com
+*.watcha.com
+coupang.com/streaming
+
+# Thai/Southeast Asia Streaming
+wetvthailand.com
+wetv.vip
+*.wetv.vip
+viu.com
+*.viu.com
+viulookout.com
+
+# ========================================
+# Live Streaming & Video Sharing (Non-YouTube)
+# ========================================
+twitch.tv
+*.twitch.tv
+twitchcdn.net
+
+facebook.com/watch
+*.facebook.com/watch
+watch.facebook.com
+
+tiktok.com
+*.tiktok.com
+tiktokcdn.com
+tiktokv.com
+
+instagram.com/reels
+*.instagram.com
+
+dailymotion.com
+*.dailymotion.com
+
+vimeo.com
+*.vimeo.com
+
+rumble.com
+*.rumble.com
+
+dailymotion.com
+*.dailymotion.com
+
+# ========================================
+# File Sharing & Download Streaming
+# ========================================
+# Torrent & P2P
+thepiratebay.org
+*.thepiratebay.org
+kickass.to
+kickassproxy.info
+1337x.to
+rarbg.to
+tpb.party
+
+# Cloud Storage (sometimes used for streaming)
+mega.nz
+mega.co.nz
+mediafire.com
+dropbox.com/s
+
+# ========================================
+# Other Illegal/Unauthorized Streaming Sites
+# ========================================
+# General movie/series sites
+123movies.to
+123moviesgo.com
+movies123.to
+gomovies.to
+gomovies.sx
+flixhq.to
+fmovies.to
+0123movies.com
+
+# Streaming aggregators
+allflix.org
+putlockers.online
+watchseriestv.top
+watchseriesfree.top
+afilmyweb.com
+movie4u.org
+bolly4u.com
+filmyzilla.com
+movies4u.org
+
+# ========================================
+# Sport Streaming (Live & On-Demand)
+# ========================================
+espn.com/watch
+foxsports.com/watch
+beinsports.com
+*.beinsports.com
+dazn.com
+*.dazn.com
+laliga.com
+premierleague.com
+livetv.sx
+
+# ========================================
+# Music Streaming (Optional - uncomment if needed)
+# ========================================
+# spotify.com
+# *.spotify.com
+# music.youtube.com
+# soundcloud.com
+# *.soundcloud.com
+# pandora.com
+# *.pandora.com
+
+# ========================================
+# EXCLUSIONS: YouTube & Related (ALLOWED)
+# Note: These should NOT be blocked
+# Comment them out if needed - use in Web Filter Exceptions instead
+# ========================================
+# youtube.com
+# *.youtube.com
+# youtube-nocookie.com
+# *.youtube-nocookie.com
+# ytimg.com
+# *.ytimg.com
+# ytcdn.net
+# *.ytcdn.net
+# youtubestatic.com
+# *.youtubestatic.com
+
+# ========================================
+# END OF LIST
+# ========================================
+# Update frequency: Monthly
+# Last updated: 2026-08-01
+# Contact: IT Security - Phayao Hospital
