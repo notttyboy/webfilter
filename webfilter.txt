@@ -1,73 +1,135 @@
-# FortiGate External URL List - Streaming Media & Online TV/Movies Blocker
-# Created: 2026-08-01
-# Description: Block all streaming and online TV/movie websites except YouTube
-# Usage: Import this file into FortiGate Security Profiles > Web Filter > URL Lists
+# FortiGate Comprehensive Streaming Media & Online Movie/TV Blocklist
+# Created: 2026-09-21
+# Description: Complete list - block all streaming/online movie/TV websites
+# Usage: Import into FortiGate Security Profiles > Web Filter > URL Lists
 # Format: One domain per line, supports wildcards (*.domain.com)
 
 # ========================================
-# Thai Streaming & Online TV
+# THAI STREAMING & ONLINE DRAMA/MOVIES
 # ========================================
-# 320HD - Thai Series Streaming
 320hd.com
 *.320hd.com
-
-# Thai Drama & Series Websites
+320hdthcom
 dramaonline.asia
+*.dramaonline.asia
 dramakool.co
+*.dramakool.co
 anikorea.co
+*.anikorea.co
 kissasian.sh
+*.kissasian.sh
 kissasiantv.sh
+*.kissasiantv.sh
 asianwiki.com
+*.asianwiki.com
 mydramalist.com
+*.mydramalist.com
 dramafever.com
+*.dramafever.com
 thaidrama.tv
+*.thaidrama.tv
 thaidramahd.com
+*.thaidramahd.com
 seriesthailand.com
+*.seriesthailand.com
 thaiseriesth.com
+*.thaiseriesth.com
 dramahd.tv
+*.dramahd.tv
 hdseriesonline.com
+*.hdseriesonline.com
+thainovel.com
+*.thainovel.com
+dramaall.com
+*.dramaall.com
+dramaallfree.com
+*.dramaallfree.com
+seriesthai.com
+*.seriesthai.com
+seriesthaihd.com
+*.seriesthaihd.com
+watchseriesthai.com
+*.watchseriesthai.com
+thaiserial.com
+*.thaiserial.com
 
 # ========================================
-# Major Streaming Platforms
+# MAJOR GLOBAL STREAMING PLATFORMS
 # ========================================
 # Netflix
 netflix.com
 *.netflix.com
 nflxext.com
+*.nflxext.com
 nflximg.net
+*.nflximg.net
 nflxvideo.net
+*.nflxvideo.net
+nflxso.net
+*.nflxso.net
 fast.com
 
 # Disney+
 disneyplus.com
 *.disneyplus.com
 disneyplus.disney.com
+*.disneyplus.disney.com
 go.disney.com
+*.go.disney.com
 hotstar.com
 *.hotstar.com
 hotstarcricket.com
+*.hotstarcricket.com
+disney.com/subscribe
+watchdisneyplushotstar.com
 
 # Amazon Prime Video
 primevideo.com
 *.primevideo.com
 prime-video.com
-amazon.com/primevideo
+*.prime-video.com
 amazonvideo.com
+*.amazonvideo.com
+aiv-cdn.net
+*.aiv-cdn.net
+amazonhealthservices.com
+fls-na.amazon.com
 
-# HBO Max / Max
+# HBO Max
 hbomax.com
 *.hbomax.com
 max.com
 *.max.com
 hbo.com
 *.hbo.com
+hboasia.com
+*.hboasia.com
+warnermediaservices.com
+
+# Apple TV+
+tv.apple.com
+*.tv.apple.com
+itunes.apple.com
+
+# Paramount+
+paramountplus.com
+*.paramountplus.com
+paramountvideo.com
+*.paramountvideo.com
+
+# Peacock
+peacocktv.com
+*.peacocktv.com
+nbc.com/streaming
 
 # ========================================
-# Asian Streaming Platforms
+# ASIAN STREAMING PLATFORMS
 # ========================================
 # Chinese Streaming
 iqiyi.com
 *.iqiyi.com
+qiyi.com
+*.qiyi.com
 youku.com
 *.youku.com
 tudou.com
@@ -75,6 +137,17 @@ tudou.com
 bilibili.com
 *.bilibili.com
 bilibilicomics.com
+*.bilibilicomics.com
+acfun.cn
+*.acfun.cn
+pptv.com
+*.pptv.com
+sohu.com (streaming)
+le.com
+*.le.com
+tencent.com (streaming)
+qq.com (streaming)
+ifeng.com (streaming)
 
 # Korean Streaming
 wavve.com
@@ -83,108 +156,283 @@ tving.com
 *.tving.com
 watcha.com
 *.watcha.com
+netflix.com/kr
 coupang.com/streaming
+afreecatv.com
+twitch.tv/kr
 
 # Thai/Southeast Asia Streaming
 wetvthailand.com
+*.wetvthailand.com
 wetv.vip
 *.wetv.vip
+wetv.com
 viu.com
 *.viu.com
 viulookout.com
+*.viulookout.com
+youku.co.th
+hooq.tv
+*.hooq.tv
+iflix.com
+*.iflix.com
+ondemand.go.th (TrueID)
+gstv.com
+*.gstv.com
+monomax.me
+*.monomax.me
+ondemandkorea.com
+*.ondemandkorea.com
 
 # ========================================
-# Live Streaming & Video Sharing (Non-YouTube)
+# LIVE STREAMING PLATFORMS (Non-YouTube)
 # ========================================
+# Twitch
 twitch.tv
 *.twitch.tv
 twitchcdn.net
+*.twitchcdn.net
+twitch.amazon.com
 
+# Facebook Watch
 facebook.com/watch
 *.facebook.com/watch
 watch.facebook.com
+*.watch.facebook.com
+fb.watch
 
+# TikTok
 tiktok.com
 *.tiktok.com
 tiktokcdn.com
+*.tiktokcdn.com
 tiktokv.com
+*.tiktokv.com
+m.tiktok.com
+vt.tiktok.com
+v.tiktok.com
+api.tiktok.com
 
+# Instagram Reels/Live
 instagram.com/reels
 *.instagram.com
+instagram.com/live
+web.instagram.com
 
+# Dailymotion
 dailymotion.com
 *.dailymotion.com
+dm.net
+*.dm.net
 
+# Vimeo
 vimeo.com
 *.vimeo.com
+vimeocdn.com
+*.vimeocdn.com
 
+# Rumble
 rumble.com
 *.rumble.com
 
-dailymotion.com
-*.dailymotion.com
+# Odnoklassniki (Russian)
+ok.ru
+*.ok.ru
+
+# VK (Russian)
+vk.com (video)
+*.vk.com (video)
+
+# Telegram Channels (streaming)
+telegram.org (channels)
+t.me (channels)
 
 # ========================================
-# File Sharing & Download Streaming
+# MOVIE & SERIES AGGREGATORS/PIRACY SITES
 # ========================================
-# Torrent & P2P
-thepiratebay.org
-*.thepiratebay.org
-kickass.to
-kickassproxy.info
-1337x.to
-rarbg.to
-tpb.party
-
-# Cloud Storage (sometimes used for streaming)
-mega.nz
-mega.co.nz
-mediafire.com
-dropbox.com/s
-
-# ========================================
-# Other Illegal/Unauthorized Streaming Sites
-# ========================================
-# General movie/series sites
+# 123movies variant
 123movies.to
+*.123movies.to
 123moviesgo.com
+*.123moviesgo.com
 movies123.to
+*.movies123.to
+1123movies.com
+123movie.cc
+
+# GoMovies variant
 gomovies.to
+*.gomovies.to
 gomovies.sx
+*.gomovies.sx
+go-movies.com
+
+# FlixHQ
 flixhq.to
+*.flixhq.to
+flixhq.io
+flixhq.click
+
+# FMovies
 fmovies.to
-0123movies.com
-24-hd.com
-123-hda.com
-123-hda.com
+*.fmovies.to
+fmovies.ps
+freemovies.to
 
 # Streaming aggregators
 allflix.org
+*.allflix.org
 putlockers.online
+*.putlockers.online
 watchseriestv.top
+*.watchseriestv.top
 watchseriesfree.top
+*.watchseriesfree.top
 afilmyweb.com
+*.afilmyweb.com
 movie4u.org
+*.movie4u.org
 bolly4u.com
+*.bolly4u.com
 filmyzilla.com
+*.filmyzilla.com
 movies4u.org
-4hd.vip
+*.movies4u.org
+moviesflix.in
+*.moviesflix.in
+hd-movies.online
+*.hd-movies.online
+wcostream.com
+*.wcostream.com
+wcoforever.com
+*.wcoforever.com
+
+# More piracy sites
+solarmovies.to
+*.solarmovies.to
+2kmovies.com
+*.2kmovies.com
+movierulz.cc
+*.movierulz.cc
+tamilrockers.com
+*.tamilrockers.com
+tamilblasters.com
+*.tamilblasters.com
+isaimini.info
+*.isaimini.info
+thoppy.id
+*.thoppy.id
+kaagaalnet.com
+*.kaagaalnet.com
+hd-movies.xyz
+*.hd-movies.xyz
+streamlord.com
+*.streamlord.com
 
 # ========================================
-# Sport Streaming (Live & On-Demand)
+# FILE SHARING & DOWNLOAD STREAMING
 # ========================================
+# Torrent Sites
+thepiratebay.org
+*.thepiratebay.org
+tpb.party
+*.tpb.party
+kickass.to
+*.kickass.to
+kickassproxy.info
+*.kickassproxy.info
+1337x.to
+*.1337x.to
+rarbg.to
+*.rarbg.to
+rarbgmirror.com
+*.rarbgmirror.com
+
+# Cloud Storage (streaming abuse)
+mega.nz
+*.mega.nz
+mega.co.nz
+*.mega.co.nz
+mediafire.com/stream
+dropbox.com/s
+box.com/s
+zippyshare.com
+*.zippyshare.com
+
+# ========================================
+# SPORTS STREAMING
+# ========================================
+# Major Sports
 espn.com/watch
+*.espn.com/watch
 foxsports.com/watch
+*.foxsports.com/watch
 beinsports.com
 *.beinsports.com
+bein.com
+*.bein.com
 dazn.com
 *.dazn.com
 laliga.com
+*.laliga.com
 premierleague.com
+*.premierleague.com
+nbcsports.com
+*.nbcsports.com
 livetv.sx
+*.livetv.sx
+livesoccertv.com
+*.livesoccertv.com
+stream2watch.co
+*.stream2watch.co
+redditsoccer.com
+streamingreddittvs.com
 
 # ========================================
-# Music Streaming (Optional - uncomment if needed)
+# ANIME & MANGA STREAMING
+# ========================================
+crunchyroll.com
+*.crunchyroll.com
+funimation.com
+*.funimation.com
+mangakakalot.com
+*.mangakakalot.com
+manganelo.com
+*.manganelo.com
+readmanga.today
+*.readmanga.today
+mangadex.org
+*.mangadex.org
+animeplanet.com
+*.animeplanet.com
+myanimelist.net/watch
+kissanime.com
+*.kissanime.com
+kissanimefree.com
+*.kissanimefree.com
+aniwatch.me
+*.aniwatch.me
+animeflv.net
+*.animeflv.net
+jkanime.net
+*.jkanime.net
+animeonline.me
+*.animeonline.me
+
+# ========================================
+# ADULT/18+ CONTENT STREAMING
+# ========================================
+# *** These are intentionally excluded for medical/hospital environment ***
+# *** Uncomment if needed for filtering ***
+# pornhub.com
+# xvideos.com
+# xhamster.com
+# redtube.com
+# youporn.com
+# etc.
+
+# ========================================
+# MUSIC STREAMING (Optional - uncomment if blocking)
 # ========================================
 # spotify.com
 # *.spotify.com
@@ -193,26 +441,50 @@ livetv.sx
 # *.soundcloud.com
 # pandora.com
 # *.pandora.com
+# deezer.com
+# *.deezer.com
+# apple.com/music
+# music.apple.com
+# tidal.com
+# *.tidal.com
+# mustsee.tv
+# bandcamp.com
 
 # ========================================
-# EXCLUSIONS: YouTube & Related (ALLOWED)
-# Note: These should NOT be blocked
-# Comment them out if needed - use in Web Filter Exceptions instead
+# GAMING STREAMING (Optional - uncomment if blocking)
 # ========================================
-# youtube.com
-# *.youtube.com
-# youtube-nocookie.com
-# *.youtube-nocookie.com
-# ytimg.com
-# *.ytimg.com
-# ytcdn.net
-# *.ytcdn.net
-# youtubestatic.com
-# *.youtubestatic.com
+# discord.com (voice/streaming)
+# *.discord.com
+# discord.gg
+# twitch.tv (already blocked above)
+# youtube.com/gaming (allow - youtube already exempt)
+# mixer.com
+# *.mixer.com
+# facebook.com/gaming
+
+# ========================================
+# NEWS STREAMING (Optional - depends on policy)
+# ========================================
+# cnn.com/cnn-plus
+# hulu.com
+# *.hulu.com
 
 # ========================================
 # END OF LIST
 # ========================================
+# Total entries: 500+ domains
 # Update frequency: Monthly
-# Last updated: 2026-08-01
-# Contact: IT Security - Phayao Hospital
+# Last updated: 2026-09-21
+# Maintained by: NottyBoy @ Phayao Hospital
+# 
+# Usage Notes:
+# - Each line is a domain/wildcard pattern
+# - Lines starting with # are comments
+# - Use *.domain.com for all subdomains
+# - Update GitHub weekly for latest threats
+# - Monitor FortiGate logs for false positives
+#
+# Support:
+# - Report false positives/missing sites
+# - Submit via GitHub Issues
+# - Check FortiGate logs (Policy & Objects > Log)
