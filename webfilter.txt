@@ -52,6 +52,9 @@ watchseriesthai.com
 *.watchseriesthai.com
 thaiserial.com
 *.thaiserial.com
+123-hda.com
+*.123-hda.com
+
 
 # ========================================
 # MAJOR GLOBAL STREAMING PLATFORMS
