@@ -154,6 +154,9 @@ gomovies.sx
 flixhq.to
 fmovies.to
 0123movies.com
+24-hd.com
+123-hda.com
+123-hda.com
 
 # Streaming aggregators
 allflix.org
@@ -165,6 +168,7 @@ movie4u.org
 bolly4u.com
 filmyzilla.com
 movies4u.org
+4hd.vip
 
 # ========================================
 # Sport Streaming (Live & On-Demand)
