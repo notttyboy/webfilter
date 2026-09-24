@@ -50,6 +50,10 @@ thaiserial.com
 *.thaiserial.com
 24hd.media
 *.24hd.media
+77-hd.com
+*.77hd.com
+hd432.com
+*.hd432.com
 
 # ========================================
 # 123MOVIES VARIANTS (Most Common) - 40+ Variants
