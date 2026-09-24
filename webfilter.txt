@@ -48,6 +48,8 @@ seriesthai.com
 *.seriesthai.com
 thaiserial.com
 *.thaiserial.com
+24hd.media
+*.24hd.media
 
 # ========================================
 # 123MOVIES VARIANTS (Most Common) - 40+ Variants
