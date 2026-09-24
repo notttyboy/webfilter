@@ -618,6 +618,59 @@ archive.org
 *.archive.org
 archive.is
 
+# Google Search Top Ranked Movie & Series Domains
+037hd.vip
+037hdmovie.net
+037hdmovie.org
+123-hd.com
+123hd.tv
+123hd.org
+9nung.cc
+9nung.co
+9nung.online
+anime-subthai.tv
+animeriku.net
+doomovie.com
+doomovie-hd.org
+dunung24.co
+dunung24.online
+fwfree.net
+imovie-hd.co
+imovie-hd.net
+kseries.in
+kseries.life
+kseries.tv
+ksoseries.net
+master357.net
+moviemaster8k.org
+movie2free.co
+movie2free.vip
+movienung.co
+movienungfree.net
+nongmew.org
+one-hd.net
+sanookmovie.co
+vseries.me
+vseries.co
+zoom-hd.co
+gimyongseries.com
+nekopost.co
+
+# Official Thai Broadcasters & Streaming Domains
+ch3plus.com
+bugaboo.tv
+oned.net
+one31.net
+vipa.me
+mcot.net
+gmm25.com
+pptvhd36.com
+thairath.co.th
+monomax.me
+trueid.net
+workpointtv.com
+ch7.com
+
 # ========================================
 # END OF MEGA LIST
 # ========================================
