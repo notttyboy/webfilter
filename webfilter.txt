@@ -698,3 +698,115 @@ ch7.com
 # YouTube is EXEMPT (allowed separately)
 # This is the MEGA version - 1000+ domains
 # Use for complete blocking of streaming/movie sites
+# =========================================================
+# Popular Piracy & Free Movie/Series Streaming Domains
+# (โดเมนยอดนิยมที่คนชอบ Search และใช้งานบ่อย)
+# =========================================================
+.037hd.com
+.037hdd.com
+.037hddmovies.com
+.037hd-movie.com
+.movie2free.com
+.movie2free.se
+.nont-hd.com
+.dooseries.com
+.dooseries-free.com
+.dooseries.tv
+.dooseries.co
+.movies.2ded.com
+.veryfasthd.com
+.imovie-hd.com
+.doomovied.com
+.hd24h.com
+.moviethai.com
+.moviethai4u.com
+.kserietv.com
+.kserietv.org
+.kseries.co
+.kseries.tv
+.madoohung.com
+.madoohung.co
+.doomovie-free.com
+.doomovie.co
+.doomovie-hd.com
+.hd-madoofree.com
+.movie-hd.com
+.nangdee.com
+.fwip-tv.com
+.doonung.biz
+.doonung-hd.com
+.doonungonline.com
+.movie377.com
+.nungsub.com
+.nunghd.org
+.nunghd.biz
+.seriesubthai.co
+.series-subthai.com
+.seriesfast.com
+.series2four.com
+.series-flex.com
+.subthai-hd.com
+.watchlakorn.in
+.sanookseries.com
+.gimzaa.com
+.vipanel.net
+.seriesth.com
+.doonung123.com
+.fookingmovie.com
+.kingseries.com
+.movie-fast.com
+.movie-zone.com
+.movie-hd1.com
+.doohung-hd.com
+.seriesdee.com
+
+# =========================================================
+# Content Delivery Networks (CDN) & Embedded Video Players
+# (โฮสต์และ Player ฝากไฟล์วิดีโอสายเทาที่นิยมดึง Stream)
+# =========================================================
+.fembed.com
+.fembed.net
+.feurl.com
+.vidsrc.me
+.vidsrc.to
+.vidsrc.xyz
+.gounlimited.to
+.upstream.to
+.mixdrop.co
+.mixdrop.to
+.doodstream.com
+.dood.so
+.dood.la
+.dood.ws
+.streamtape.com
+.streamtape.to
+.voe.sx
+.upstream.cx
+.luluvdo.com
+.filelions.com
+.vidhidepro.com
+.vidguard.to
+
+# =========================================================
+# Search Keyword Wildcards / RegEx Patterns
+# (บล็อกตามคีย์เวิร์ดบน URL Path เผื่อเว็บเปลี่ยนโดเมนใหม่)
+# =========================================================
+*037hd*
+*movie2free*
+*dooseries*
+*doomovie*
+*doonung*
+*madoohung*
+*kseries*
+*kserietv*
+*moviethai*
+*nunghd*
+*seriesubthai*
+*subthai-hd*
+*watchlakorn*
+*hd-madoofree*
+*imovie-hd*
+*veryfasthd*
+*vidsrc*
+*doodstream*
+*streamtape*
