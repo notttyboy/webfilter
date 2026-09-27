@@ -561,7 +561,7 @@ streamingreddittvs.com
 *.streamingreddittvs.com
 
 # ========================================
-# FOREX & TRADING PLATFORMS (เทรดเงิน/หุ้น)
+# FOREX & TRADING PLATFORMS (เทรดเงิน/หุ้น/ทอง)
 # ========================================
 trade.8xtrade.com
 *.trade.8xtrade.com
@@ -615,6 +615,114 @@ just2trade.com
 *.just2trade.com
 tradeview.com
 *.tradeview.com
+
+# Best Gold Trading Platforms 2025-2026
+hfm.com
+*.hfm.com
+eightcap.com
+*.eightcap.com
+plus500.com
+*.plus500.com
+plus500.co.uk
+*.plus500.co.uk
+ig.com
+*.ig.com
+igus.com
+*.igus.com
+cmcmarkets.com
+*.cmcmarkets.com
+fxpro.com
+*.fxpro.com
+fpmarkets.com
+*.fpmarkets.com
+forex.com
+*.forex.com
+forexcom.com
+*.forexcom.com
+capital.com
+*.capital.com
+xm.com
+*.xm.com
+xmtrading.com
+*.xmtrading.com
+fxtm.com
+*.fxtm.com
+bitget.com
+*.bitget.com
+
+# Stock Trading & Investment Platforms
+interactive-brokers.com
+*.interactive-brokers.com
+ibkr.com
+*.ibkr.com
+tdameritrade.com
+*.tdameritrade.com
+etrade.com
+*.etrade.com
+fidelity.com
+*.fidelity.com
+schwab.com
+*.schwab.com
+merrill.com
+*.merrill.com
+webull.com
+*.webull.com
+robinhood.com
+*.robinhood.com
+moomoo.com
+*.moomoo.com
+wealthsimple.com
+*.wealthsimple.com
+questrade.com
+*.questrade.com
+degiro.eu
+*.degiro.eu
+tradestation.com
+*.tradestation.com
+ninjatrader.com
+*.ninjatrader.com
+tradingview.com
+*.tradingview.com
+
+# Commodities & Gold Trading Platforms
+kitco.com
+*.kitco.com
+jmbullion.com
+*.jmbullion.com
+moneymetals.com
+*.moneymetals.com
+goldsilver.com
+*.goldsilver.com
+cmegroup.com
+*.cmegroup.com
+nymex.com
+*.nymex.com
+investing.com
+*.investing.com
+tradingeconomics.com
+*.tradingeconomics.com
+
+# Stock Exchanges & Markets
+cboe.com
+*.cboe.com
+ice.com
+*.ice.com
+eurex.com
+*.eurex.com
+lse.co.uk
+*.lse.co.uk
+nasdaq.com
+*.nasdaq.com
+nyse.com
+*.nyse.com
+asx.com.au
+*.asx.com.au
+jpx.co.jp
+*.jpx.co.jp
+bse-india.com
+*.bse-india.com
+nse-india.com
+*.nse-india.com
 
 # ========================================
 # GAMBLING & BETTING SITES
