@@ -815,8 +815,51 @@ betwild.com
 *.betwild.com
 
 # ========================================
-# CRYPTOCURRENCY & TRADING EXCHANGES
+# MUSIC STREAMING (Optional - Block)
 # ========================================
+# YouTube Music
+music.youtube.com
+*.music.youtube.com
+youtubemusic.com
+*.youtubemusic.com
+youtube.music
+*.youtube.music
+
+# Spotify
+spotify.com
+*.spotify.com
+music.spotify.com
+*.music.spotify.com
+
+# Apple Music
+music.apple.com
+*.music.apple.com
+apple.com/music
+*.apple.com/music
+
+# Amazon Music
+music.amazon.com
+*.music.amazon.com
+primemusicus.com
+*.primemusicus.com
+
+# Other Music Streaming
+soundcloud.com
+*.soundcloud.com
+pandora.com
+*.pandora.com
+deezer.com
+*.deezer.com
+tidal.com
+*.tidal.com
+mustsee.tv
+*.mustsee.tv
+bandcamp.com
+*.bandcamp.com
+lastfm.com
+*.lastfm.com
+shazam.com
+*.shazam.com
 binance.com
 *.binance.com
 coinbase.com
