@@ -815,6 +815,174 @@ betwild.com
 *.betwild.com
 
 # ========================================
+# ONLINE GAMING WEBSITES & GAMING PORTALS
+# ========================================
+# Browser & Web-Based Gaming Portals
+crazygames.com
+*.crazygames.com
+poki.com
+*.poki.com
+pokigames.com
+*.pokigames.com
+armorgames.com
+*.armorgames.com
+miniclip.com
+*.miniclip.com
+freeonlinegames.com
+*.freeonlinegames.com
+zapak.com
+*.zapak.com
+gamesonline.in
+*.gamesonline.in
+coolmathgames.com
+*.coolmathgames.com
+y8.com
+*.y8.com
+kongregate.com
+*.kongregate.com
+newgrounds.com
+*.newgrounds.com
+itch.io
+*.itch.io
+gamejam.com
+*.gamejam.com
+nitrome.com
+*.nitrome.com
+silvergames.com
+*.silvergames.com
+agame.com
+*.agame.com
+gamesfreak.net
+*.gamesfreak.net
+gamesgames.com
+*.gamesgames.com
+bgames.com
+*.bgames.com
+flashgames.ru
+*.flashgames.ru
+hyper.com
+*.hyper.com
+playhop.com
+*.playhop.com
+
+# PC Gaming Platforms & Download Services
+steam.com
+*.steam.com
+steampowered.com
+*.steampowered.com
+epicgames.com
+*.epicgames.com
+epicgames.store
+*.epicgames.store
+ubisoft.com (gaming platform)
+*.ubisoft.com
+origin.com
+*.origin.com
+ea.com
+*.ea.com
+battlenet.com
+*.battlenet.com
+blizzard.com
+*.blizzard.com
+riot.com
+*.riot.com
+activision.com
+*.activision.com
+rockstargames.com
+*.rockstargames.com
+bethesda.com
+*.bethesda.com
+capcom.com
+*.capcom.com
+konami.com
+*.konami.com
+bandainamco.com
+*.bandainamco.com
+Take2Games.com
+*.Take2Games.com
+
+# Mobile Gaming & App Stores
+appstore.apple.com
+*.appstore.apple.com
+play.google.com
+*.play.google.com
+play.store
+*.play.store
+googleplay.com
+*.googleplay.com
+iosappstorage.com
+*.iosappstorage.com
+
+# Gaming Consoles Online
+playstation.com
+*.playstation.com
+play.station
+*.play.station
+xbox.com
+*.xbox.com
+xbox.live
+*.xbox.live
+xboxlive.com
+*.xboxlive.com
+nintendo.com
+*.nintendo.com
+nintendoswitch.com
+*.nintendoswitch.com
+sega.com
+*.sega.com
+
+# Multiplayer & Online Communities
+roblox.com
+*.roblox.com
+minecraft.com
+*.minecraft.com
+minecraftwiki.net
+*.minecraftwiki.net
+discord.com (gaming community)
+*.discord.com
+discord.gg
+*.discord.gg
+reddit.com/r/gaming
+*.reddit.com
+
+# Game Streaming Platforms (Gaming)
+twitch.tv (already blocked)
+youtube.com/gaming (already allowed)
+facebook.com/gaming
+*.facebook.com/gaming
+
+# Gaming Subscription Services
+gamepass.com
+*.gamepass.com
+xbox.game.pass
+*.xbox.game.pass
+playstation.plus
+*.playstation.plus
+psplus.com
+*.psplus.com
+nintendo.switch.online
+*.nintendo.switch.online
+geforce.nvidia.com (gaming cloud)
+*.geforce.nvidia.com
+
+# Retro & Emulator Gaming
+emulatoronline.com
+*.emulatoronline.com
+emulator.games
+*.emulator.games
+retrogames.com
+*.retrogames.com
+scummvm.org
+*.scummvm.org
+
+# Online Casino & Gambling Games (Gaming)
+casinogames.com
+*.casinogames.com
+gambleonline.co
+*.gambleonline.co
+(already covered in Gambling section)
+
+# ========================================
 # MUSIC STREAMING (Optional - Block)
 # ========================================
 # YouTube Music
