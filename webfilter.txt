@@ -8,10 +8,16 @@
 # ========================================
 # THAI STREAMING SITES
 # ========================================
+24hd.media
+*.24hd.media
 320hd.com
 *.320hd.com
 320hdthcom
 *.320hdthcom
+24hdtv.com
+*.24hdtv.com
+24h-tv.com
+*.24h-tv.com
 dramaonline.asia
 *.dramaonline.asia
 dramakool.co
