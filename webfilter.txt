@@ -10,6 +10,8 @@
 # ========================================
 24hd.media
 *.24hd.media
+24hd.today
+*.24hd.today
 24-hda.com
 *.24-hda.com
 24hda.com
