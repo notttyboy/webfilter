@@ -88,6 +88,14 @@ m2f-hd.com
 *.037-hdm.net
 moviesuck.net
 *.moviesuck.net
+avocadohd.com
+*.avocadohd.com
+avocadohd.net
+*.avocadohd.net
+avocado-hd.com
+*.avocado-hd.com
+avocadofiles.com
+*.avocadofiles.com
 movie-suck.net
 *.movie-suck.net
 24-hdx.net
